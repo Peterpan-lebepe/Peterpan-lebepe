@@ -55,7 +55,7 @@ Covers data exploration, filtering and aggregation (COUNT, SUM, AVG, MIN, MAX), 
 
 ---
 
-### 📊 Advertising Campaign Performance Dashboard
+### 📊 [Advertising Campaign Performance Dashboard](https://github.com/Peterpan-lebepe/advertising-campaign-excel-dashboard)
 A multi-sheet Excel dashboard built on a 3,600+ row advertising dataset, with live SUMIFS/COUNTIFS formulas, KPI cards, and four supporting charts — designed to answer real business questions about campaign performance, not just display numbers.
 
 **Stack:** Excel · Pivot Tables · Dashboard Design · Data Cleaning
