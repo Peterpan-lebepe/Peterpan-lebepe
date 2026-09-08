@@ -60,8 +60,6 @@ A multi-sheet Excel dashboard built on a 3,600+ row advertising dataset, with li
 
 **Stack:** Excel · Pivot Tables · Dashboard Design · Data Cleaning
 
-*(Repo link coming as this gets pushed to GitHub)*
-
 ---
 
 ## 🎓 Education & Training
