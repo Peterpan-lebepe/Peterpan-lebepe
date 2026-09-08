@@ -1,40 +1,60 @@
-# Hi, I'm Lebeko Peter Lebepe 👋
+Lebeko Peter Lebepe
 
-## About Me
-I am a data professional with experience in data compliance, reporting integrity, and operational data validation within the broadcast and media industry.
+Senior Compliance & Data Operations Specialist | Data Analytics (SQL | Power BI) | Reporting & Insights
 
-I am currently studying and building skills in:
-- Data Analytics
-- SQL
-- Excel
-- Power BI
-- Database Design
+👋 About Me
+I work at the intersection of data, compliance, and reporting within media operations — making sure high-volume campaign data is accurate, consistent, and ready for decisions.
 
-My focus is on transforming data into accurate, reliable, and actionable insights that support better decision-making.
+Day to day, that means validating and analysing campaign performance data, tracking down discrepancies, and producing reporting that internal teams and clients actually rely on. Over time this has pulled me into quality control, stakeholder coordination, and more data-driven decision support — which is what pointed me toward analytics in the first place.
 
-## What I DO
-- Data Validation & Compliance Monitoring
-- Reporting & Data Quality Control
-- Audit-Ready Reporting
-- Operational Data Analysis
-- Workflow & Reporting Optimization
+I'm currently building out my technical toolkit — SQL, Power BI, and Python — through a Data Analytics Bootcamp, and applying what I'm learning to real datasets rather than just exercises. The goal isn't a career pivot so much as a natural extension: nine-plus years of knowing what "trustworthy data" looks like, now paired with the tools to build and visualise it myself.
 
-## Currently Learning
-- Data Analytics
-- SQL & Database Management
-- Power BI Dashboards
-- Data Visualization
+Core strengths: data validation, reporting accuracy, campaign analytics, operational data quality.
 
-## Tools & Technologies
-- SQL
-- Excel
-- Power BI
-- Qlik
-- draw.io
-- GitHub
+🌐 Connect
+[LinkedIn](https://www.linkedin.com/in/lebeko-peter-lebepe-0844a1112/) [Email](mailto:lebekolebepe1@gmail.com)
 
-## Goals
-- Build practical data analytics projects
-- Grow into a skilled Data Analyst
-- Create data-driven solutions and dashboards
-- Continuously improve technical and analytical skills
+💻 Tech Stack
+
+Data Analytics & BI
+
+https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white Show Image Show Image Show Image
+
+Programming
+
+Show Image Show Image
+
+Tools
+
+Show Image Show Image
+
+🚀 Featured Projects
+🛒 NovaRetail SQL Analysis
+
+A SQL and BI project analysing retail transactional data in Databricks — turning raw sales and customer records into business-relevant insights.
+
+Covers data exploration, filtering and aggregation (COUNT, SUM, AVG, MIN, MAX), retail customer and sales analysis, and schema interpretation, built end-to-end as a Databricks SQL notebook.
+
+Stack: SQL · Databricks · CSV · Relational Data
+
+📊 Advertising Campaign Performance Dashboard
+
+A multi-sheet Excel dashboard built on a 3,600+ row advertising dataset, with live SUMIFS/COUNTIFS formulas, KPI cards, and four supporting charts — designed to answer real business questions about campaign performance, not just display numbers.
+
+Stack: Excel · Pivot Tables · Dashboard Design · Data Cleaning
+
+(Repo link coming as this gets pushed to GitHub)
+
+🎓 Education & Training
+Data Analytics Bootcamp — Witle Academy (Aug–Nov 2026, in progress) — SQL, Power BI, Python, Pandas
+Full Stack Development Certificate — FNB App Academy / IT Varsity (2025)
+Prior studies — Boston Media House
+📚 Currently Learning
+Advanced SQL (joins, CTEs, window functions)
+Power BI data modelling & DAX
+Python & Pandas for data cleaning and analysis
+💡 What I Bring
+
+Nine-plus years of making sure data can be trusted — before it's about dashboards or trends, it's about knowing whether the numbers in front of you are actually right. That's the discipline I'm now applying with SQL, Power BI, and Python.
+
+Open to: Data Analyst · Reporting Analyst · Data Quality Analyst · BI Analyst · Data Operations
