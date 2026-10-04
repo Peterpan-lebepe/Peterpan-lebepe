@@ -1,6 +1,6 @@
 # Lebeko Peter Lebepe
 
-### Senior Compliance & Data Operations Specialist | Data Analytics (SQL | Power BI) | Reporting & Insights
+### Senior Adlytics Operator | Advertising Campaign Data Quality | Data Analytics & Reporting | SQL | Power BI | Excel
 
 ---
 
